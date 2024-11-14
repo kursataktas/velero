@@ -1,7 +1,7 @@
 ![100]
 
 [![Build Status][1]][2] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3811/badge)](https://bestpractices.coreinfrastructure.org/projects/3811)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vmware-tanzu/velero)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vmware-tanzu/velero) [![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20Velero%20Guru-006BFF)](https://gurubase.io/g/velero)
 
 ## Overview
 
